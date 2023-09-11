@@ -1,0 +1,120 @@
+
+.hello
+{
+  width: 100%;
+  height: 100%;
+}
+
+.cc
+{
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(1, 82, 107);
+    width: 100%;
+}
+
+.mark
+{
+    background-color: rgb(22, 96, 244);
+    color: white;
+}
+
+.delete
+{
+    background-color: rgb(203, 23, 23);
+    color: white;
+}
+
+
+
+.bt
+{
+    margin-top: 30px;
+}
+
+
+
+
+.hello-1
+{
+  margin-left: 10%;
+  width: 10%;
+  transition: all 1s;
+  background-color: rgb(1, 82, 107);
+  font-weight: bolder;
+  color: white;
+}
+
+
+
+.hello-2
+{
+  width: 10%;
+  margin:2px;
+  transition: all 1s;
+  background-color: rgb(1, 82, 107);
+  font-weight: bolder;
+  color: white;
+}
+
+
+
+
+.hello-3
+{
+  transition: all 1s;
+  background-color: rgb(49, 84, 182);
+  border: none;
+  font-weight: bolder;
+  color: rgb(255, 252, 252);
+  float: right;
+  margin-right: 10%;
+}
+
+.hello-4
+{
+  transition: all 1s;
+  background-color: rgb(49, 84, 182);
+  border: none;
+  font-weight: bolder;
+  color: rgb(255, 252, 252);
+  float: right;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+
+
+
+
+
+.search
+{
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(49, 84, 182);
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+
+
+
+thead{
+    background-color: black;
+    color: white;
+}
+
+
+table ,td
+{
+    margin-top: 20px ;
+    border: 1px solid;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
